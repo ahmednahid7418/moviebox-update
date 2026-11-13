@@ -1,0 +1,9 @@
+{
+  "package_name": "com.community.oneroom",
+  "latest_version": 50020134,
+  "version_name": "4.0.03.1029.03",
+  "force_update": true,
+  "title": "MovieBox Update Available!",
+  "message": "A new version is available. Please update MovieBox.",
+  "download_url": "https://example.com/moviebox-v2.4.apk"
+}
